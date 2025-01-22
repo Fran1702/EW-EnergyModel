@@ -1,0 +1,10 @@
+vmax = 99.00
+q_signals = 2
+phase = [0, 180]
+slope = 1
+t_step = 10
+N = 2
+freq_sin = 100
+f_sampling = 10000
+filename = 'G-W10-G02-100-180-R_params_0.txt'
+Ncycles = 2
